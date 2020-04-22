@@ -57,7 +57,7 @@ If you have a huge amount of text data or a lot of executions, you may be charge
  
 # Author
  
-* Tyamamoto100
+* Tyamamoto1007
 * https://auto-worker.com/blog
 * tyamamoto@try.main.jp
  
